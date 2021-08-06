@@ -526,14 +526,15 @@ nav .menu-btn i{
         height: 100%;
      }
 
-     #achieve{
+
+
+     #tt{
 
         flex-basis: 100%;
-        text-align: center;
-        padding-right: 0px;
-
-        
-       
+        text-align: justify;
+        display: block;
+        width: 500px;
+        height: 100%;
      }
 
      
