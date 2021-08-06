@@ -528,8 +528,10 @@ nav .menu-btn i{
 
 
 
-     #tt{
+     #achieve{
 
+        margin-right: 0px;
+        
         flex-basis: 100%;
         text-align: justify;
         display: block;
